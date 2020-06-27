@@ -7,8 +7,8 @@
 		<version>1.2.4</version>
 	</parent>
 
-	<artifactId>org.eclipse.paho.client.mqttv3</artifactId>
-	<packaging>eclipse-plugin</packaging>
+	<artifactId>in.zyla.paho.client.mqttv3</artifactId>
+	
 
 	<build>
 		<plugins>
